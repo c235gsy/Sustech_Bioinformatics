@@ -1,0 +1,30 @@
+Min coverage:	4
+Min var freq:	0.3
+lambda phage	Position	Ref	Var	Qual	Cons:Cov:Reads1:Reads2:Freq:P-value	StrandFilter:R1+:R1-:R2+:R2-:pval
+lambda phage	1104	G	A	55	A:11:0:11:1.0:0	Pass:0:0:3:8:1E0
+lambda phage	2143	C	G	44	G:9:0:6:0.666666666667:0	Pass:0:0:3:3:1E0
+lambda phage	3316	G	C	50	C:9:0:8:0.888888888889:0	Pass:0:0:5:3:1E0
+lambda phage	3406	G	T	41	T:5:0:5:1.0:0	Pass:0:0:5:0:1E0
+lambda phage	7089	A	C	46	C:5:0:4:0.8:0	Pass:0:0:3:1:1E0
+lambda phage	12512	A	A	50	A:8:0:5:0.625:0	Pass:0:0:3:2:1E0
+lambda phage	18018	A	T	51	T:11:0:8:0.727272727273:0	Pass:0:0:4:4:1E0
+lambda phage	21193	C	G	51	G:10:0:9:0.9:0	Pass:0:0:3:6:1E0
+lambda phage	21707	C	T	53	T:4:0:3:0.75:0	Pass:0:0:3:0:1E0
+lambda phage	21818	G	A	58	A:6:0:6:1.0:0	Pass:0:0:2:4:1E0
+lambda phage	22778	A	T	53	T:7:0:7:1.0:0	Pass:0:0:3:4:1E0
+lambda phage	24099	C	C	58	C:7:0:7:1.0:0	Pass:0:0:4:3:1E0
+lambda phage	25245	T	T	45	T:5:0:2:0.4:0	Pass:0:0:1:1:1E0
+lambda phage	25563	T	G	48	G:6:0:4:0.666666666667:0	Pass:0:0:1:3:1E0
+lambda phage	26443	G	C	49	C:5:0:4:0.8:0	Pass:0:0:2:2:1E0
+lambda phage	28553	A	C	62	C:4:0:4:1.0:0	Pass:0:0:3:1:1E0
+lambda phage	32012	T	C	49	C:9:0:9:1.0:0	Pass:0:0:3:6:1E0
+lambda phage	35035	G	T	60	T:9:0:8:0.888888888889:0	Pass:0:0:5:3:1E0
+lambda phage	35145	T	A	53	A:4:0:4:1.0:0	Pass:0:0:1:3:1E0
+lambda phage	37052	T	G	48	G:7:0:6:0.857142857143:0	Pass:0:0:4:2:1E0
+lambda phage	39640	G	G	57	G:7:0:7:1.0:0	Pass:0:0:5:2:1E0
+lambda phage	40311	T	A	44	A:4:0:4:1.0:0	Pass:0:0:4:0:1E0
+lambda phage	40739	G	A	49	A:15:0:12:0.8:0	Pass:0:0:2:10:1E0
+lambda phage	41376	A	T	53	T:9:0:8:0.888888888889:0	Pass:0:0:3:5:1E0
+lambda phage	43666	G	C	56	C:10:0:9:0.9:0	Pass:0:0:5:4:1E0
+lambda phage	46744	C	T	57	T:7:0:7:1.0:0	Pass:0:0:1:6:1E0
+lambda phage	47808	A	G	47	G:8:0:7:0.875:0	Pass:0:0:3:4:1E0
