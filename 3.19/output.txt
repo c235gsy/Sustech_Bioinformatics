@@ -1,0 +1,22 @@
+Unphased SNPs:
+SNP1410  TT  TC  TC  CC  TC  TT  CC  TT  CC  TC  TC  TC  TT  TT  CC  TC  TT  TC  TC  TC  TC  TT  TC  CC  TT  TC  TC  TT  CC  TT  TC  TT  TT  CC  CC  TC  CC  CC  TC  TC
+SNP1411  AA  AA  AA  GG  AA  AA  GG  AA  AG  AA  AA  AG  AA  AA  AG  AG  AG  AA  AA  AG  AA  AA  AG  AG  AG  AA  AA  GG  AG  AA  AA  AA  AG  AA  AA  GG  AA  AG  AG  AG
+SNP1412  AT  AT  AA  AA  AT  TT  AA  TT  AA  AT  TT  AA  AT  AT  AA  AA  AT  AT  AA  AT  AT  TT  AA  AA  AT  AA  AT  AA  AA  TT  AT  TT  AT  AA  AA  AA  AA  AA  AT  AT
+
+Phased SNPs:
+SNP1410  TT  TC  CT  CC  TC  TT  CC  TT  CC  TC  TC  CT  TT  TT  CC  CT  TT  TC  CT  CT  TC  TT  CT  CC  TT  CT  TC  TT  CC  TT  TC  TT  TT  CC  CC  CT  CC  CC  CT  CT
+SNP1411  AA  AA  AA  GG  AA  AA  GG  AA  GA  AA  AA  GA  AA  AA  GA  GA  AG  AA  AA  GA  AA  AA  GA  GA  AG  AA  AA  GG  GA  AA  AA  AA  AG  AA  AA  GG  AA  GA  GA  GA
+SNP1412  TA  TA  AA  AA  TA  TT  AA  TT  AA  TA  TT  AA  TA  TA  AA  AA  TA  TA  AA  AT  TA  TT  AA  AA  TA  AA  TA  AA  AA  TT  TA  TT  TA  AA  AA  AA  AA  AA  AT  AT
+
+Haplotypes:
+CGA TAT CAA TGA 
+
+Tow phased SNPs: 
+TA  TA  TA  CA  CA  TA  CG  CG  TA  CA  TA  TA  CG  CG  TA  TA  CG  CA  TA  CA  TA  CA  CG  TA  TA  TA  TA  TA  CG  CA  CG  TA  TA  TG  TA  CA  CA  TA  CG  TA  TA  CA  TA  TA  CG  TA  CG  CA  TA  TG  CA  TA  TA  CA  TG  TG  CG  CA  TA  TA  TA  CA  TA  TA  TA  TG  CA  CA  CA  CA  CG  TG  CA  CA  CG  CA  CG  TA  CG  TA
+
+Their haplotypes: 
+TG  CA  CG  TA
+
+A: C B: A PA: 0.475 PB: 0.725 PAB: 0.275
+
+D': 0.480519480519   R_power: 0.0968015650411

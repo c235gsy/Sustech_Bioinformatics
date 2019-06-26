@@ -1,0 +1,5 @@
+#genome	position	ID	REF	ALT	FILTER	INFO
+EcoliGenome	307	.	A	T	PASS	.
+EcoliGenome	334	.	G	A,A	FALSE	.
+EcoliGenome	2126	.	C	A	PASS	.
+EcoliGenome	2127	.	C	G	PASS	.
